@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj": {}
+    "d:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj": {
+    "d:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj",
+        "projectUniqueName": "d:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj",
         "projectName": "example001_helloWorld",
-        "projectPath": "D:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj",
+        "projectPath": "d:\\Saidanvarxon\\C#\\example001_helloWorld\\example001_helloWorld.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Saidanvarxon\\C#\\example001_helloWorld\\obj\\",
+        "outputPath": "d:\\Saidanvarxon\\C#\\example001_helloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
